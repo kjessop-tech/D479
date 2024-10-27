@@ -279,11 +279,11 @@ footer
 	}
 	header h1
 	{
-	background-image: url(logo2.png);
-	background-position: 125px 5px;
-	background-repeat: no-repeat;
-	background-size: 7em;
-	height: 300px; 
+		background-image: url(logo2.png);
+		background-position: 125px 5px;
+		background-repeat: no-repeat;
+		background-size: 7em;
+		height: 300px; 
 	}
 	#wrapper
 	{
@@ -303,8 +303,8 @@ footer
 		font-size: 16px;
 		text-align: center;
 		border: 3px #7F7F7F outset;
-		padding-left: 9em;
-		padding-right: 9em;
+		padding-left: 5em;
+		padding-right: 5em;
 		padding-top: 10px;
 		padding-bottom: 10px;
 	}
@@ -347,10 +347,10 @@ footer
 	}
 	input
 	{
-	width: 25em;
+		width: 25em;
 	}
 	textarea
 	{
-	width: 25em;
+		width: 25em;
 	}
 }
