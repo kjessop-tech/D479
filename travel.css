@@ -265,10 +265,9 @@ footer
 	header
 	{
 		font-size: 12px;
-		height: 135px;
-		padding-left: 4em;
+		height: 100px;
+		padding-left: 8em;
 		padding-top: 1.5em;
-		padding-bottom: 0.25em;
 	}
 	header h1
 	{
@@ -289,7 +288,7 @@ footer
 		font-size: 16px;
 		text-align: center;
 		border: 3px #7F7F7F outset;
-		padding-left: 9em;
+		padding-left: 8em;
 		padding-right: 9em;
 		padding-top: 10px;
 		padding-bottom: 10px;
@@ -329,5 +328,13 @@ footer
 	#pic
 	{
 		padding: 0;
+	}
+	input
+	{
+	width: 25em;
+	}
+	textarea
+	{
+	width: 25em;
 	}
 }
