@@ -156,7 +156,7 @@ nav ul
 
 form
 {
-	padding-left: 22em;
+	padding-left: 5em;
 }
 
 footer 
@@ -284,6 +284,13 @@ footer
 	background-repeat: no-repeat;
 	background-size: 7em;
 	height: 300px; 
+	}
+	#wrapper
+	{
+		width: 100%;
+		min-width: 0;
+		margin: 0;
+		padding: 0;
 	}
 	nav
 	{
