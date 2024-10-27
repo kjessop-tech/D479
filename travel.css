@@ -297,12 +297,11 @@ footer
 		border: 3px #7F7F7F outset;
 		padding-left: 9em;
 		padding-right: 9em;
-		padding-top: 10px;
-		padding-bottom: 10px;
 	}
 	nav ul
 	{
 		display: block;
+		padding: 0;
 	}
 	main
 	{
