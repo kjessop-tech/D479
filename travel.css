@@ -301,6 +301,7 @@ footer
 	nav ul
 	{
 		display: block;
+		padding-left: 0;
 	}
 	main
 	{
