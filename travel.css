@@ -299,6 +299,7 @@ footer
 	nav ul
 	{
 		display: block;
+		margin-left: 2em;
 	}
 	main
 	{
