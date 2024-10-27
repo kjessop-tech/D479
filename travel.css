@@ -292,12 +292,14 @@ footer
 		padding-right: 9em;
 		padding-top: 10px;
 		padding-bottom: 10px;
+		margin-left: 0;
 	}
 	nav ul
 	{
 		display: block;
 		padding-left: 0;
 		margin-left: 0;
+
 	}
 	main
 	{
