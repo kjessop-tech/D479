@@ -252,6 +252,14 @@ footer
 	{
 		padding-left: 15em;
 	}
+	input
+	{
+	width: 25em;
+	}
+	textarea
+	{
+	width: 25em;
+	}
 }
 
 @media only screen and (max-width: 768px)
@@ -292,8 +300,6 @@ footer
 		padding-right: 9em;
 		padding-top: 10px;
 		padding-bottom: 10px;
-		margin-left: 0;
-		margin-right: 0;
 	}
 	nav ul
 	{
